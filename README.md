@@ -2,9 +2,8 @@ RadialSymmetryLikelihood is a set of Matlab routines
 to compute a coefficient of radial symmetry,
 i.e., amount of radial symmetry, on grayscale images.
 
----
 
-## Dependencies
+### Dependencies
 
 
 This software requires the Bioformats MATLAB Toolbox.
@@ -20,9 +19,8 @@ This software requires the Bioformats MATLAB Toolbox.
 
 	...in Matlab's command line.
 
----
 
-## Usage
+### Usage
 
 
 The main function is radialSymmetryLikelihood.m
