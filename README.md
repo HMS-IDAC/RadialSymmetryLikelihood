@@ -5,25 +5,25 @@ i.e., amount of radial symmetry, on grayscale images.
 
 -------------------------
 Dependencies
--------------------------
+
 
 This software requires the Bioformats MATLAB Toolbox.
 
-1. Download it from http://downloads.openmicroscopy.org/bio-formats/5.3.4/
+	1. Download it from http://downloads.openmicroscopy.org/bio-formats/5.3.4/
 
-2. Place the toolbox in the same folder where this software is located.
+	2. Place the toolbox in the same folder where this software is located.
 
-3. Add the Bioformats MATLAB Toolbox to Matlab's path.
-For example, if the Bioformats folder is 'bfmatlab', add it to the path by executing...
+	3. Add the Bioformats MATLAB Toolbox to Matlab's path.
+	For example, if the Bioformats folder is 'bfmatlab', add it to the path by executing...
 
-    addpath(genpath('bfmatlab'))
+	    addpath(genpath('bfmatlab'))
 
-...in Matlab's command line.
+	...in Matlab's command line.
 
 
 -------------------------
 Usage
--------------------------
+
 
 The main function is radialSymmetryLikelihood.m
 
