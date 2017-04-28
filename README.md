@@ -4,7 +4,7 @@ i.e., amount of radial symmetry, on grayscale images.
 
 
 -------------------------
-Dependencies
+#Dependencies
 
 
 This software requires the Bioformats MATLAB Toolbox.
@@ -22,7 +22,7 @@ This software requires the Bioformats MATLAB Toolbox.
 
 
 -------------------------
-Usage
+#Usage
 
 
 The main function is radialSymmetryLikelihood.m
