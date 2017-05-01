@@ -25,7 +25,7 @@ This software requires the Bioformats MATLAB Toolbox.
 
 The main function is radialSymmetryLikelihood.m
 
-There are two main scripts that can be execute from Matlab's prompt:
+There are two main scripts that can be executed from Matlab's prompt:
 
 
 runSingleRadialSymmetryLikelihood
